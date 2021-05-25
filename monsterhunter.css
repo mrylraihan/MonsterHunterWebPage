@@ -1,0 +1,28 @@
+body{
+	background: url(https://o.aolcdn.com/images/dims?thumbnail=960%2C&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fuu%2Fapi%2Fres%2F1.2%2FFdyZkvtIAzuxx9u5HTAGrA--%7EB%2FaD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u%2Fhttps%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fc5aa219d689c89a0219a479740f07395%2F206107203%2FMonsterHunterWorld_Spread2-ed.jpg&client=amp-blogside-v2&signature=f00ca4ca0342559cdaee95ec66c7d9417fdf7dbf);
+	background-size: cover;
+	background-position: center;
+	font-family: 'Lato', sans-serif;
+	color: white;
+}
+html{
+	height: 100%;
+}
+#content{
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+h1{
+	font-weight: 700;
+	font-size: 5em;
+
+}
+hr{
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.4);
+}
